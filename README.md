@@ -1,5 +1,5 @@
 # SFGL
-Simple Furry Graphics Library (For K210 - Micropython)
+Simple Furry Graphics Library (For K210, K230 - Micropython)
 Create GUI for K210
 
 # Example
